@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AresendezG
-- 👀 I’m interested in Hardware in the loop test, Windows applications, ML Automation
-- 🌱 I’m currently learning C#, Machine Learning, SQL Databases
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Esli Resendez
+- 👀 I’m interested in Hardware Testing, Windows Applications, Testing Automation for hardware...
+- 🌱 I’m currently learning C#, Machine Learning, SQL Databases, Python
+- 💞️ I’m looking to collaborate on any interesting project related to integration of HW/SW
 - 📫 How to reach me al.resendez.gro@gmail.com
 
 <!---
